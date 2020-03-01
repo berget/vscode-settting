@@ -1,0 +1,40 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.activityBar.visible": true,
+    "breadcrumbs.enabled": true,
+    "editor.minimap.enabled": false,
+    "workbench.statusBar.visible": true,
+    "window.menuBarVisibility": "default",
+    "workbench.sideBar.location": "left",
+    "editor.lineHeight": 23,
+    "workbench.editor.showTabs": true,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.fontFamily": "Menlo For Powerline, Noto Mono, YaHei Consolas Hybrid, Monaco, monospace",
+    "terminal.integrated.fontFamily": "monospace",
+    "editor.fontSize": 16,
+    "explorer.confirmDelete": false,
+    "php.validate.executablePath": "/usr/bin/php",
+    "php.executablePath": "/usr/bin/php",
+    "php.suggest.basic": true,
+    "telemetry.enableTelemetry": false,
+    "workbench.colorTheme": "One Dark Pro",
+    "files.associations": {
+        "*.tpl": "php"
+    },
+    "oneDarkPro.bold": true,
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client",
+        "editor.formatOnSave": true
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.tree.indent": 13,
+    "window.zoomLevel": 0.8,
+    "editor.formatOnSave": true,
+    "composer.executablePath": "/usr/local/bin/composer",
+    "phpfmt.php_bin": "/usr/bin/php",
+    "emmet.triggerExpansionOnTab": true, // enable tab to expanse emmet tags
+    "blade.format.enable": true,
+    "plantuml.server": "https://www.plantuml.com/plantuml", // if you would like to enable blade format
+}
